@@ -1,0 +1,37 @@
+h1{
+margin: 20px;
+background-color: red;
+width: 42vw;
+height: 50p0x;
+max-width: 300px;
+text-align: right;
+padding-right: 50px;
+
+}
+
+p.decolated{
+    text-decoration: underline;
+    text-indent: 50px;
+    /* letter-spacing: 1em; */
+    
+}
+
+p.undecolated{
+    /* text-transform: uppercase; */
+    /* text-shadow: 2px 2px; */
+    font-style: italic;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    color: red;
+}
+
+a:visited{
+    text-decoration: line-through;
+}
+
+

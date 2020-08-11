@@ -1,0 +1,18 @@
+li{
+    color: rgb(81, 13, 145);
+    background-color: rgba(252, 185, 226);
+    /* border-width: 3px;
+    border-color: black;
+    border-style: dotted;
+     */
+    border-top: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+body{
+    background-image: url(http://2.bp.blogspot.com/-ZX6czgJJK1A/T_fIv3htM6I/AAAAAAAAEIE/FgAXGVKMQ0k/s1600/Beautiful+Cats+Hd+Wallpapers_10.jpg);
+    background-repeat: repeat;
+    background-attachment: scroll;
+}
